@@ -103,6 +103,7 @@ public class GridManager : MonoBehaviour
         
         return neighbourList;
     }
+    
 
     private Cell TryToGetCell(int row, int col)
     {
@@ -110,6 +111,7 @@ public class GridManager : MonoBehaviour
         {
             return null;
         }
+
 
         return cellList[row * gridWidth + col];
     }

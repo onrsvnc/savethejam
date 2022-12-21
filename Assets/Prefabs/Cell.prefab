@@ -123,6 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16298667d4448884a997ccbe03182b53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionPS: {fileID: 4438366561971945655, guid: 29bb5b22a82917245ae5f5ab7bb3cebf, type: 3}
   cellSprites:
   - {fileID: 21300000, guid: 5429027ab5c653446b63d4fd7f9e59b7, type: 3}
   - {fileID: 21300000, guid: 6e9dbdd85e0f9924d941853c94612322, type: 3}
